@@ -11,7 +11,8 @@
     <EditText
         android:id="@+id/etUsername"
         android:layout_width="match_parent"
-        android:layout_height="wrap_content"
+        android:layout_height="58dp"
+        android:layout_marginBottom="5dp"
         android:layout_weight="1"
         android:ems="10"
         android:hint="username" />
@@ -19,7 +20,8 @@
     <EditText
         android:id="@+id/etPassword"
         android:layout_width="match_parent"
-        android:layout_height="wrap_content"
+        android:layout_height="60dp"
+        android:layout_marginTop="5dp"
         android:layout_weight="1"
         android:ems="10"
         android:hint="password"
@@ -29,6 +31,19 @@
         android:id="@+id/btnLogin"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
+        android:layout_marginTop="25dp"
         android:layout_weight="1"
-        android:text="Login" />
+        android:backgroundTint="#6610DF"
+        android:minHeight="60dip"
+        android:text="Log in" />
+
+    <Button
+        android:id="@+id/btnSignup"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:layout_weight="1"
+        android:backgroundTint="#54B51F"
+        android:minHeight="60dip"
+        android:text="Sign Up" />
 </LinearLayout>
