@@ -2,6 +2,10 @@
 
 An Android photo-sharing app similar to Instagram but using Parse as its backend.
 
+## Video Walkthrough
+
+<img src='gif.gif' title='Video Walkthrough' width='30%' alt='Video Walkthrough' />
+
 ## User Stories
 
 The following **required** functionality is completed:
@@ -30,13 +34,6 @@ The following **optional** features are implemented:
       - [ ] Tapping on a post's username or profile photo goes to that user's profile page and shows a grid view of the user's posts 
 - [ ] User can comment on a post and see all comments for each post in the post details screen.
 - [ ] User can like a post and see number of likes for each post in the post details screen.
-
-## Video Walkthrough
-
-Here's a walkthrough of implemented user stories:
-
-<img src='Parstagram_Part1.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
-<img src='Parstagram_Part2.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 ## Open-source libraries used
 
